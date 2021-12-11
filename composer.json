@@ -1,0 +1,10 @@
+{
+    "require": {
+        "sabas/edifact": "^0.5.1",
+        "php-edifact/edifact-mapping": "^0.3.2",
+        "phpoffice/phpspreadsheet": "^1.20"
+    },
+    "require-dev": {
+        "rector/rector": "^0.12.7"
+    }
+}
